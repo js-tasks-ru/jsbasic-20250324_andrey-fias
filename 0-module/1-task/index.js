@@ -1,3 +1,3 @@
 function sum(m, n) {
-  alert( m * n );
+  return m + n;
 }
